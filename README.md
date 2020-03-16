@@ -1,4 +1,4 @@
-# Digit_Recognizer
+# Digit Recognizer
 ## A Basic Handwritten Digit Recognizer using Convolutional Neural Networks
 
 This little project uses Tensorflow backend and is trained on the MNIST Handwritten Digits Dataset. The Test_Accuracy file has the testing accuracy of this network saved.
